@@ -1,3 +1,3 @@
 # recipe-library
 
-(Dressing)[recipes/aunt-sue-salad-dressing.md]
+[Dressing](recipes/aunt-sue-salad-dressing.md)
