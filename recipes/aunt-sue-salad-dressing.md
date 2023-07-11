@@ -12,8 +12,8 @@
 - 1 rounded T thyme
 - 1 T flax seed
 - 1 T chia seed
-- 1 1/2 olive oil
-- 1/2 water
+- 1 1/2 C olive oil
+- 1/2 C water
 
 ## Steps
 
