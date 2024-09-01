@@ -6,7 +6,7 @@
 - 1/4C olive oil
 - 36C very ripe Roma tomatoes
 - 6oz can of tomato paste
-- 2C fresh basil
+- 4C chopped fresh basil
 - 2T oregano or to taste
 - 1/4 C sugar
 - 2T vinegar
@@ -19,5 +19,10 @@
 2. Place tomatoes and basil in food processor and chop.
 3. Place all remaining ingredients with tomato/basil blend in sauce pan.
 4. Bring to boil.
-5. Reduce to simmer for 3hrs or until consistency or taste is achieved. The longer it cooks, the less acidic the sauce will be. Stir occasionally to reduce chance of sticking/burning.
+5. Reduce to simmer for 2hrs with lid on. Stir occasionally to reduce chance of sticking/burning.
+6. Remove lid and simmer for 2 more hours[^1]. 
 6. (OPTIONAL) Run some or all final cooked sauce in blender for smoother finish.
+
+[^1]: Adjust cook time to taste and consistency. Longer cook times reduce acidity.
+
+  
