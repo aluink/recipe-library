@@ -24,5 +24,4 @@
 6. [^2] Run some or all final cooked sauce in blender for smoother finish.
 
 [^1]: Adjust cook time to taste and consistency. Longer cook times reduce acidity.
-
 [^2]: Optional
