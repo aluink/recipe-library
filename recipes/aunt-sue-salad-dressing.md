@@ -17,7 +17,7 @@
 
 ## Steps
 
-1. Place all incredients except oil and water in a blender and blend till smooth.
+1. Place all incredients except *oil* and **water** in a blender and blend till smooth.
 2. Bring blender back down to low speed
 3. Slowly add both water and oil.
 4. Slowly increase speed to maximum and blend till evenly mixed.
