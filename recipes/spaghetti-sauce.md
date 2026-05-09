@@ -10,7 +10,7 @@
 - 2T oregano or to taste
 - 1/4 C sugar
 - 2T vinegar
-- 1/4-1/2C cookie Sherry[^2]
+- 1/4-1/2C cooking Sherry[^2]
 - 2T salt
 
 ## Steps
